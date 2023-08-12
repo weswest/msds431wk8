@@ -1,0 +1,26 @@
+extends: existence
+message: "'%s' is incorrect. 'data' should be singular."
+level: error
+tokens:
+  - 'data are'
+  - 'data were'
+  - 'data have'
+  - 'data themselves'
+  - 'data do'
+  - 'Data are'
+  - 'Data were'
+  - 'Data have'
+  - 'Data themselves'
+  - 'Data do'
+  - 'are data'
+  - 'were data'
+  - 'have data'
+  - 'do data'
+  - 'Are data'
+  - 'Were data'
+  - 'Have data'
+  - 'Do data'
+
+
+
+
